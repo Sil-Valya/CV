@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 .container {
-    width: 400px;
+    width: 800px;
     margin: auto;
 }
 
@@ -24,13 +24,14 @@ body {
     margin-right: 17px;
 }
 
-/* .text {
-    margin-right: 90px;}*/
+.text {
+    margin-right: 90px;
+}
 
 .name {
     border: 2px dashed #000080;
     padding: 10px;
-    /* margin-right: 300px; */
+    margin-right: 300px;
 }
 
 a {
